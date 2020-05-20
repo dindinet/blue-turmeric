@@ -1,22 +1,22 @@
 ---
 title: Aliquam ultricies
 display_header: true
-subtitle: >-
-  Vitae dictum. Sed consectetur nulla lacus, ultricies ornare lacus volutpat at.
-  Nunc rutrum turpis.
+subtitle: Vitae dictum. Sed consectetur nulla lacus, ultricies ornare lacus
+  volutpat at. Nunc rutrum turpis.
 content_img: images/pic06.jpg
 home:
   highlights:
     enabled: true
     weight: 1
-    excerpt: >-
-      Maecenas et tempor tortor. Aenean ut est tortor. Aenean fer enim amet
+    excerpt: Maecenas et tempor tortor. Aenean ut est tortor. Aenean fer enim amet
       purus mattis lacinia. Maecenas et rhoncus, etiam magna vitae tempus
       finibus, nisi elit aliquet nisl, ac commodo neque est et dolor. Donec sed
-      ornare, justo non.
+      ornare, justo non. Duramus centio.
     home_img:
       path: images/pic01.jpg
       data_position: center right
+  spotlights:
+    weight: 1
 layout: page
 ---
 
