@@ -1,16 +1,17 @@
 ---
-title: Diam sed interdum
+title: Diam sed interdum dum de dum de dum
 display_header: true
 content_img: images/pic06.jpg
 home:
   spotlights:
     enabled: true
     weight: 3
-    excerpt: >-
-      Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare, justo
-      non pulvinar interdum, neque justo auctor lectus, facilisis imperdiet diam
-      tempus lorem ipsum dolor.
+    excerpt: Aliquet nisl, ac commodo neque est et dolor. Donec sed amet ornare,
+      justo non pulvinar interdum, neque justo auctor lectus, facilisis
+      imperdiet diam tempus lorem ipsum dolor.
     home_img_path: images/pic06.jpg
+  highlights:
+    weight: 3
 layout: page
 ---
 
