@@ -1,7 +1,7 @@
 title: Construct
 baseURL: /
 params:
-  palette: cyan
+  palette: red
   palettes:
     blue:
       sass:
